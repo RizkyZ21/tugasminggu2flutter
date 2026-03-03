@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
           seedColor: const Color.fromARGB(255, 0, 47, 255),
         ),
       ),
-      home: const MyHomePage(title: 'Muhammad Rizky Zuhriansyah - 3124521033'),
+      home: const MyHomePage(title: 'Zuhri - 3124521033'),
     );
   }
 }
